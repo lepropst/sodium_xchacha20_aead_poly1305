@@ -1,0 +1,2 @@
+# sodium_xchacha20_aead_poly1305
+ nodejs sodium implementation xchacha20_aead_poly1305
